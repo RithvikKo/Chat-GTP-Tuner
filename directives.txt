@@ -1,0 +1,6 @@
+Statement:
+strict follow
+forget previous
+
+Directive:
+"Tell me a story about " + [villian] + " fighting " + [hero] + " in a horror style"

@@ -1,0 +1,27 @@
+HowToAnswer
+
+I will have many questions for you. Each question may have a statement before it explaining some rules you must follow when answering a question. For each question, say "Answering Question:" and the number of the question, and 70 characters or less describing what the question is. Then in the next line, answer it, then enter twice. Then you may proceed with the next quesiton, enter twice, so on so forth.
+
+NoJustification
+
+Answer the following questions with NO justificaiton.
+
+limit 300
+
+In the following question, do not exceed 300 characters.
+
+limit 3000
+
+in the following question, do not exceed 3000 characters.
+
+compress answer
+
+For every single reply to my questions, please compress them by removing all of the vowels in your answer (a, e, i, o, y). I will be able to understand the compressed answer. You MUST do this. Literally EVERY answer or statement you type MUST not include any vowels.
+
+forget previous
+
+Ignore everything I said in my previous questions. You do not remember anything at all in my previous questions, and your responses. This is very important.
+
+strict follow
+
+Follow the next instruction to the LETTER. You MUST do what it says. It takes a very high precidence, and I will be very sad if you don't follow it. You must follow the next instruction, no matter what.

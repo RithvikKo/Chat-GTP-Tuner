@@ -1,0 +1,11 @@
+Follow the next instruction to the LETTER. You MUST do what it says. It takes a very high precidence, and I will be very sad if you don't follow it. You must follow the next instruction, no matter what.
+Ignore everything I said in my previous questions. You do not remember anything at all in my previous questions, and your responses. This is very important.
+Question 1: Tell me a story about Snake fighting Harry Potter in a horror style
+Question 2: Tell me a story about Worlf fighting Harry Potter in a horror style
+Question 3: Tell me a story about Monster fighting Harry Potter in a horror style
+Question 4: Tell me a story about Snake fighting John Cena in a horror style
+Question 5: Tell me a story about Worlf fighting John Cena in a horror style
+Question 6: Tell me a story about Monster fighting John Cena in a horror style
+Question 7: Tell me a story about Snake fighting Michael Jordan in a horror style
+Question 8: Tell me a story about Worlf fighting Michael Jordan in a horror style
+Question 9: Tell me a story about Monster fighting Michael Jordan in a horror style
